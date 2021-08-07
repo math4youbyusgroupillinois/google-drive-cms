@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gupsy-288118",
+  "private_key_id": "f7f31bbdf9fa826a69728703c4a33488b5604b74",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDJN3wCJXxnPMPP\nbqWAC+5PjTfvzXXTdL1JGel/EkIVUTM2vX021GsWzIZXXLXmXZMt1cafGRy5kwU0\na9CNAKNSn8FHtE8Vxx8wm5HMr0O1QPqkNrg66N403AKupY6Pz5A4dYmfKzxdlKgQ\no6vk5pk5sOobVPPSXL5yRVSLscInizvasM1YdIe+3h9nKS32vMHYfOCwyy6FP/TR\n7jDoWeckOUxceQianJoO67RLp9JqkvQOqnKX/eXlBw8ufc/+BycQ5h9LTefZN9nc\ndnOebvqfGorUAKBIiASqJrjFtDbLZSIz/l41WcmJ0w9pYbLG22owMxTSl72ClEzM\nlyHOLCPxAgMBAAECggEABBNakLrQhXELtIo0whZjxyLYr+PTC9Oa0KXspsMweVjv\n4w9FH7DfYyqk+zSkltAdBr30cCUoobngjmxzYMLDPB2CI0Ubv7i8+Q2inzEq23tP\npFc7Ja7RLuQIrh/Kdp9dOAaJ8UJVfn4ABjfBd+FDl+F9aWyv5Fo2bY850FtLL+Sy\n558q2P0i74zxZJK3Z6ORI291VrILk9EiQCEP/ry3+F5U7NxNdKy8QpgQ+bRd+ZyZ\nGHYyKcGcdAArXM4Iaw4lp2yVvTYc3KWWips9KOangIQ49ZwU+Aa2ZB4pV4/pJVzW\n/nIZLzEFaW7rNNrInLzeIZmKwvZqVXkoVm7nqhVsoQKBgQD5A64j3OfxixsxFua3\nH6rXIKxqtw96TaQMIoUUk9w383CwaNi161f0hQ/AGYmjmK54XeG8QzpR97SlQ90E\nk2D9jWcw9yFrxcAlT9s04LW3p1UwWuDdj+RR+3zDEB2Hu0mD45clP6HmNQ/+3/HM\niXxs00mglGmUYNf/ORbb3PtVYQKBgQDO3Ip/Hw4jWK4T2z/OAFV4Z3LHKTWeYQ5F\nCPqCfwvNCrWUpX0v18pnECFX6J+HQk/ECPU8teKAm693rJ87naVi9T60IGWzGPYk\n67mnBfufJISF+1Pvruz5T6lmqnZ/YCT/2sTyrnGV1lHCwJ53uAqU5CcV0QQAVz3m\ngMJ2kT3IkQKBgQCyM4QHfisunFIVS0JIgo0L7wH0TJTy/WUMmheKplXOZJScaivL\n5GPJRQAEhUIOpVEWKnlE9QdjaVUJgAtHHwEl8m+KhxCPw7DCAufoa3cfuswoEqEh\nbbwDP2oFXh8D52+wxsp/iY4e5JJR34l2yl0UtA/Yrtzvpm5s4zoMlZP3gQKBgQCs\nhq2P9lOxUS3ma67cXdTrFcRZrNoGXMYs958PJWyvNyZYcmlldKFfsclNaztZ8Qlb\n42i9mKjvQGlo83TeoM2mKgqA6qBHbiMkieGOFuRUR32rzQClX4xPJoyPjs5Dz+kr\n5sbp7GnZYSVRu5qvGLTilyKuBGRE8H409+C4SMxxsQKBgQCcK+4Mhg9b6CjeWLwD\n9M0fFWMiU2GYCQbOiJJbDaE7X9T20DyIXGuvE7qe82SNV/QtsgDryp4/StP77XBO\nSrn29sUapHlnOb3H3gVJVY0ExPrtD6eemaBKyVNelYhNmil06awNk7a8PviNXljt\nAsrsbOq3jIXTMmvnU0sMTpcLKg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "emergent-aphid-cms@gupsy-288118.iam.gserviceaccount.com",
+  "client_id": "103157241792718521230",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emergent-aphid-cms%40gupsy-288118.iam.gserviceaccount.com"
+}
